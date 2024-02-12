@@ -5,13 +5,13 @@ Hello! My name is Patrick, and this is my GitHub profile. I am a student of Econ
 ## About Me
 
 - 🎓 Studying Economics at UFV;
-- 💼 Currently working as a Data Science Intern at 4intelligence;
+- 💼 Working as a Data Science Intern at 4intelligence;
 - 🚀 Passionate about data analysis, finance, business and technology.
 
 ## Technologies
 
 - Programming Languages: R, Python.
-- Tools: R, Python, GitHub, Excel, PowerPoint, Google Workspace, Atlassian Jira, Azure DevOps and Teams.
+- Tools: Excel, PowerPoint, Google Workspace, Atlassian Jira, Azure DevOps and Teams.
 
 ## Contact
 
