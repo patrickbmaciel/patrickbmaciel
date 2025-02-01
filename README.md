@@ -1,11 +1,11 @@
 ### Welcome to my profile 👋
 
-Hello! My name is Patrick, and this is my GitHub profile. I am a student of Economics at Universidade Federal de Viçosa (UFV) and a Data Science intern at 4intelligence.
+Hello! My name is Patrick, and this is my GitHub profile. I am a student of Economics at Universidade Federal de Viçosa (UFV) and a Data Scientist at 4intelligence.
 
 ## About Me
 
 - 🎓 Studying Economics at UFV;
-- 💼 Working as a Data Science Intern at 4intelligence;
+- 💼 Working as a Data Scientist at 4intelligence;
 - 🚀 Passionate about data analysis, finance, business and technology.
 
 ## Technologies
