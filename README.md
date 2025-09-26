@@ -1,21 +1,28 @@
-### Welcome to my profile 👋
+### Bem-vindo ao meu perfil 👋
 
-Hello! My name is Patrick, and this is my GitHub profile. I am a student of Economics at Universidade Federal de Viçosa (UFV) and a Data Scientist at 4intelligence.
+Olá! Meu nome é Patrick, e este é o meu perfil no GitHub.
 
-## About Me
+## Sobre mim
 
-- 🎓 Studying Economics at UFV;
-- 💼 Working as a Data Scientist at 4intelligence;
-- 🚀 Passionate about data analysis, finance, business and technology.
+- 🎓 Estudante de Ciências Econômicas na UFV (Universidade Federal de Viçosa);
+- 💼 Trabalho como Cientista de Dados Júnior na 4intelligence;
+- 🚀 Sou apaixonado por dados, economia aplicada e tecnologia, com forte interesse em conectar análise quantitativa e pesquisa econômica para gerar impacto em decisões estratégicas.
 
-## Technologies
+## Tecnologias
 
-- Programming Languages: R, Python.
-- Tools: Excel, PowerPoint, Google Workspace, Atlassian Jira, Azure DevOps and Teams.
+- Linguagens de programação: R, Python e SQL.
+- Pacotes em R: dplyr, tidyr, ggplot2, plotly, data.table, forecast, entre outros.
+- Extração e manipulação de grandes bases com data wrangling, ETL, joins, merges, group by e summarise.
+- Experiência com bases relevantes: RAIS, PNAD, IBGE (SIDRA), Ipea Data, Banco Central, Comex Stat, USDA e WITS.
+- Proficiência em R Markdown.
+- Versionamento: GitHub.
+- Análises econométricos: regressão linear, regressão logística, ARIMA, VAR, análise de cointegração, testes de raiz unitária (ADF), funções de impulso-resposta e forecasting.
+- Machine learning: árvore de decisão, naive Bayes, aprendizado baseado em instância (KNN) e random forest.
+- Outras ferramentas: Excel, PowerPoint, Google Workspace, Atlassian Jira, Trello e Azure DevOps.
 
 ## Contact
 
-- 📧 Email: patrickbmaciel@hotmail.com
+- 📧 E-mail: patrickbmaciel@hotmail.com
 - 💬 LinkedIn: https://www.linkedin.com/in/patrickmaciel1/
 
 <!--
