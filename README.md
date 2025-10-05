@@ -1,18 +1,18 @@
 ### Bem-vindo ao meu perfil 👋
 
-Olá! Meu nome é Patrick, e este é o meu perfil no GitHub.
+Olá! Meu nome é Patrick, e este é o meu perfil no GitHub, onde compartilho projetos focados em ciência de dados e economia aplicada.
 
 ## Tecnologias
 
 - Linguagens de programação: R, Python e SQL.
 - Pacotes em R: dplyr, tidyr, ggplot2, plotly, data.table, forecast, entre outros.
 - Extração e manipulação de grandes bases com data wrangling, ETL, joins, merges, group by e summarise.
-- Experiência com bases relevantes: RAIS, PNAD, IBGE (SIDRA), Ipea Data, Banco Central, Comex Stat, USDA e WITS.
+- Experiência com bases relevantes: RAIS, PNADC, IBGE/SIDRA, Ipea Data, Banco Central, Comex Stat, USDA e WITS.
 - Proficiência em R Markdown.
 - Versionamento: GitHub.
-- Análises econométricos: regressão linear, regressão logística, ARIMA, VAR, análise de cointegração, testes de raiz unitária (ADF), funções de impulso-resposta e forecasting.
-- Machine learning: árvore de decisão, naive Bayes, aprendizado baseado em instância (KNN) e random forest.
-- Outras ferramentas: Excel, PowerPoint, Google Workspace, Atlassian Jira, Trello e Azure DevOps.
+- Análises econométricas: Regressão Linear e Logística, ARIMA, VAR, Análise de Cointegração, testes de Raiz Unitária (ADF), funções de Impulso-Resposta e Forecasting.
+- Machine learning: Árvore de Decisão, Naive Bayes, K-Nearest Neighbors e Random Forest.
+- Outras ferramentas: Pacote Office, Google Workspace, Miro, Trello, Atlassian Jira e Azure DevOps.
 
 ## Projetos principais
 
