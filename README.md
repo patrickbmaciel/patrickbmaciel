@@ -2,12 +2,6 @@
 
 Olá! Meu nome é Patrick, e este é o meu perfil no GitHub.
 
-## Sobre mim
-
-- 🎓 Estudante de Ciências Econômicas na UFV (Universidade Federal de Viçosa);
-- 💼 Trabalho como Cientista de Dados Júnior na 4intelligence;
-- 🚀 Sou apaixonado por dados, economia aplicada e tecnologia, com forte interesse em conectar análise quantitativa e pesquisa econômica para gerar impacto em decisões estratégicas.
-
 ## Tecnologias
 
 - Linguagens de programação: R, Python e SQL.
@@ -20,10 +14,15 @@ Olá! Meu nome é Patrick, e este é o meu perfil no GitHub.
 - Machine learning: árvore de decisão, naive Bayes, aprendizado baseado em instância (KNN) e random forest.
 - Outras ferramentas: Excel, PowerPoint, Google Workspace, Atlassian Jira, Trello e Azure DevOps.
 
-## Contact
+## Projetos principais
 
-- 📧 E-mail: patrickbmaciel@hotmail.com
-- 💬 LinkedIn: https://www.linkedin.com/in/patrickmaciel1/
+### Indicadores Econômicos
+
+Tem como objetivo construir um ambiente integrado para coleta, tratamento, análise e visualização de dados socioeconômicos do Brasil, facilitando o acesso a informações essenciais e gerando evidências empíricas para pesquisas em economia aplicada e políticas públicas. Reunindo dados de fontes oficiais — como RAIS, PNADC, Atlas do Estado Brasileiro, Ipea Data, Banco Central e SIDRA/IBGE —, ele organiza informações sobre mercado de trabalho, setor público, indicadores macroeconômicos e condições socioeconômicas em um conjunto de scripts em R. As análises incluem desde padrões de remuneração e desigualdades salariais até determinantes de renda e séries históricas de juros, inflação e emprego, oferecendo uma base sólida para modelagens econométricas e estudos quantitativos.
+
+### Credit Risk
+
+Busca analisar e prever a inadimplência em empréstimos, auxiliando instituições financeiras na gestão de riscos e na tomada de decisões mais precisas. Utilizando um conjunto de dados públicos do Kaggle, ele aplica modelos de regressão logística e diversos algoritmos de machine learning — como Árvores de Decisão, Naive Bayes, KNN e Random Forest — para estimar a probabilidade de inadimplência com base em características financeiras e pessoais dos tomadores de crédito. Além de identificar perfis de risco e padrões de comportamento, o projeto compara a eficácia dos diferentes modelos, oferecendo uma ferramenta preditiva robusta para otimização de processos de concessão de crédito.
 
 <!--
 **patrickbmaciel/patrickbmaciel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
