@@ -30,16 +30,18 @@ Projeto de coleta, integração e análise de indicadores econômicos e do merca
 
 ## Tecnologias
 
-- Linguagens de programação: R, Python e SQL.
+- Linguagens: R, Python e SQL.
 - Python: pandas, NumPy, scikit-learn, statsmodels, SciPy, XGBoost, LightGBM, Matplotlib, Seaborn e Plotly.
 - Pacotes em R: dplyr, tidyr, ggplot2, plotly, data.table, forecast, fable, tidymodels, caret e randomForest.
-- Machine learning: Regressão, Classificação, Clustering,e NLP, Random Forest, XGBoost, LightGBM, Árvore de Decisão, Naive Bayes, K-Means e K-Nearest Neighbors.
+- Machine Learning: Regressão, Classificação, Clustering,e NLP, Random Forest, XGBoost, LightGBM, Árvore de Decisão, Naive Bayes, K-Means e K-Nearest Neighbors.
 - Econometria e Séries Temporais: MQO, Regressão Linear, Regressão Logística, modelos de dados em painel, ARIMA, ETS, VAR, VEC, Análise de Cointegração, testes de Raiz Unitária (ADF), funções de Impulso-Resposta e Forecasting.
 - Dados e Pipelines: ETL, ELT, data wrangling, APIs, SQL, automação de pipelines e integração de bases a partir de joins e merges.
-- Experiência com bases relevantes: RAIS, PNADC, IBGE/SIDRA, Ipea Data, Banco Central, Comex Stat, USDA e WITS.
+- Experiência com bases públicas: RAIS, PNADC, IBGE/SIDRA, Ipea Data, Banco Central, Comex Stat, USDA e WITS.
 - Proficiência em R Markdown e Notebooks em Python.
 - Versionamento: Git/GitHub e Azure Repos.
-- Outras ferramentas: Pacote Office, Google Workspace, Miro, Trello, Atlassian Jira e Azure DevOps.
+- IA generativa: ChatGPT Codex e GitHub Copilot.
+- Ferramentas Auxiliares: Pacote Office, Google Workspace, Miro, Azure DevOps, Atlassian Jira e Trello.
+- Metodologias Ágeis: Scrum e Kanban.
 
 <!--
 **patrickbmaciel/patrickbmaciel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
