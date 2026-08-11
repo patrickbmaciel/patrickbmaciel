@@ -4,27 +4,27 @@ Olá! Meu nome é Patrick, e este é o meu perfil no GitHub, onde compartilho pr
 
 ## Principais Projetos
 
-### 1) Painel Mercado
+### Painel Mercado
 
 Pipeline em Python para análise e previsão de Ibovespa, dólar/real, Nasdaq, petróleo Brent e ouro, utilizando dados históricos do Yahoo Finance, engenharia de atributos, backtesting temporal e modelos Elastic Net, Random Forest, XGBoost e LightGBM. Os melhores modelos variaram entre os ativos, e a solução integra coleta, modelagem, avaliação, previsões de até 63 pregões e dashboard interativo em um fluxo reproduzível.
 
-### 2) Credit Risk
+### Credit Risk
 
 Projeto de previsão de inadimplência com dados públicos de risco de crédito do Kaggle, comparando Regressão Logística, Árvore de Decisão, Naive Bayes, KNN e Random Forest. O Random Forest apresentou o melhor desempenho, com aproximadamente 93% de acurácia, demonstrando o potencial de modelos de machine learning para apoiar avaliações de risco de crédito orientadas por dados.
 
-### 3) Amazon Sales
+### Amazon Sales
 
 Análise de produtos da Amazon com dados do Kaggle, combinando análise exploratória, regressão, classificação, clusterização e NLP para investigar popularidade, satisfação e perfis de produtos. O Random Forest obteve os melhores resultados de regressão e classificação, enquanto a clusterização identificou cinco grupos distintos, gerando uma visão integrada do catálogo e do comportamento dos produtos.
 
-### 4) Projeto de Matemática
+### Projeto de Matemática
 
 Estudo da velocidade de ajuste da Meta Selic com dados mensais do Banco Central entre 2003 e 2026, utilizando equação diferencial, regra de ajuste parcial, MQO com erros Newey-West e avaliação fora da amostra. O modelo estimou ajuste mensal de 4,47% e meia-vida de 15,15 meses, permitindo quantificar a persistência da política monetária e integrar matemática aplicada, macroeconomia e econometria.
 
-### 5) Projeto de Econometria
+### Projeto de Econometria
 
 Análise econométrica do mercado de trabalho brasileiro com microdados da PNADC e painel de 74 áreas entre 2015 e 2023, utilizando MQO, diagnósticos econométricos, Pooled OLS, Efeitos Fixos, Efeitos Aleatórios, Primeira Diferença e Diferenças-em-Diferenças. Os testes favoreceram Efeitos Fixos de área e ano, com associações positivas entre escolaridade, participação do setor público e rendimento, evidenciando a importância de controlar heterogeneidades territoriais e temporais.
 
-### 6) Indicadores Econômicos
+### Indicadores Econômicos
 
 Projeto de coleta, integração e análise de indicadores econômicos e do mercado de trabalho brasileiro com dados da RAIS, PNADC, Atlas do Estado Brasileiro, Banco Central, Ipea e IBGE. Utiliza APIs, SQL, econometria, decomposição Oaxaca-Blinder e análise espacial para investigar salários, desigualdades e padrões regionais, consolidando diferentes fontes oficiais em um ambiente reutilizável para análises socioeconômicas.
 
