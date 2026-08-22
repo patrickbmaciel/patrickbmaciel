@@ -4,10 +4,6 @@ Olá! Meu nome é Patrick, e este é o meu perfil no GitHub, onde compartilho pr
 
 ## Principais Projetos
 
-### Painel Mercado
-
-Pipeline em Python para análise e previsão de Ibovespa, dólar/real, Nasdaq, petróleo Brent e ouro, utilizando dados históricos do Yahoo Finance, engenharia de atributos, backtesting temporal e modelos Elastic Net, Random Forest, XGBoost e LightGBM. Os melhores modelos variaram entre os ativos, e a solução integra coleta, modelagem, avaliação, previsões de até 63 pregões e dashboard interativo em um fluxo reproduzível.
-
 ### Credit Risk
 
 Projeto de previsão de inadimplência com dados públicos de risco de crédito do Kaggle, comparando Regressão Logística, Árvore de Decisão, Naive Bayes, KNN e Random Forest. O Random Forest apresentou o melhor desempenho, com aproximadamente 93% de acurácia, demonstrando o potencial de modelos de machine learning para apoiar avaliações de risco de crédito orientadas por dados.
@@ -15,6 +11,10 @@ Projeto de previsão de inadimplência com dados públicos de risco de crédito 
 ### Amazon Sales
 
 Análise de produtos da Amazon com dados do Kaggle, combinando análise exploratória, regressão, classificação, clusterização e NLP para investigar popularidade, satisfação e perfis de produtos. O Random Forest obteve os melhores resultados de regressão e classificação, enquanto a clusterização identificou cinco grupos distintos, gerando uma visão integrada do catálogo e do comportamento dos produtos.
+
+### Painel Mercado
+
+Pipeline em Python para análise e previsão de Ibovespa, dólar/real, Nasdaq, petróleo Brent e ouro, utilizando dados históricos do Yahoo Finance, engenharia de atributos, backtesting temporal e modelos Elastic Net, Random Forest, XGBoost e LightGBM. Os melhores modelos variaram entre os ativos, e a solução integra coleta, modelagem, avaliação, previsões de até 63 pregões e dashboard interativo em um fluxo reproduzível.
 
 ### Projeto de Matemática
 
@@ -30,13 +30,13 @@ Projeto de coleta, integração e análise de indicadores econômicos e do merca
 
 ## Tecnologias
 
-- Linguagens: R, Python e SQL.
-- Python: pandas, NumPy, scikit-learn, statsmodels, SciPy, XGBoost, LightGBM, Matplotlib, Seaborn e Plotly.
-- Pacotes em R: dplyr, tidyr, ggplot2, plotly, data.table, forecast, fable, tidymodels, caret e randomForest.
-- Machine Learning: Regressão, Classificação, Clustering,e NLP, Random Forest, XGBoost, LightGBM, Árvore de Decisão, Naive Bayes, K-Means e K-Nearest Neighbors.
+- Python: Pandas, NumPy, Scikit-learn, Statsmodels, SciPy, XGBoost, LightGBM, Matplotlib, Seaborn e Plotly.
+- R: dplyr, tidyr, ggplot2, plotly, data.table, geobr, forecast, fable, tidymodels, glmnet, caret, randomForest e xgboost.
+- SQL: consultas, joins, agregações, filtros e preparação de dados.
+- Machine Learning: Regressão, Classificação, Clustering, Redução de Dimensionalidade, NLP, Random Forest, XGBoost, LightGBM, Árvore de Decisão, Naive Bayes, K-Means e K-Nearest Neighbors.
 - Econometria e Séries Temporais: MQO, Regressão Linear, Regressão Logística, modelos de dados em painel, ARIMA, ETS, VAR, VEC, Análise de Cointegração, testes de Raiz Unitária (ADF), funções de Impulso-Resposta e Forecasting.
-- Dados e Pipelines: ETL, ELT, data wrangling, APIs, SQL, automação de pipelines e integração de bases a partir de joins e merges.
-- Experiência com bases públicas: RAIS, PNADC, IBGE/SIDRA, Ipea Data, Banco Central, Comex Stat, USDA e WITS.
+- Dados e Pipelines: ETL, ELT, data wrangling, APIs, automação de processos e integração de bases a partir de joins e merges.
+- Bases públicas: RAIS, PNADC, IBGE/SIDRA, Ipea Data, Banco Central, Comex Stat, USDA e WITS.
 - Proficiência em R Markdown e Notebooks em Python.
 - Versionamento: Git/GitHub e Azure Repos.
 - IA generativa: ChatGPT Codex e GitHub Copilot.
