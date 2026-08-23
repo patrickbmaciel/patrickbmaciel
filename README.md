@@ -34,12 +34,12 @@ Projeto de coleta, integração e análise de indicadores econômicos e do merca
 - R: dplyr, tidyr, ggplot2, plotly, data.table, geobr, forecast, fable, tidymodels, glmnet, caret, randomForest e xgboost.
 - SQL: consultas, joins, agregações, filtros e preparação de dados.
 - Machine Learning: Regressão, Classificação, Clustering, Redução de Dimensionalidade, NLP, Random Forest, XGBoost, LightGBM, Árvore de Decisão, Naive Bayes, K-Means e K-Nearest Neighbors.
-- Econometria e Séries Temporais: MQO, Regressão Linear, Regressão Logística, modelos de dados em painel, ARIMA, ETS, VAR, VEC, Análise de Cointegração, testes de Raiz Unitária (ADF), funções de Impulso-Resposta e Forecasting.
+- Econometria e Séries Temporais: Inferência Causal, MQO, Regressão Linear, Regressão Logística, modelos de dados em painel, ARIMA, ETS, VAR, VEC, Análise de Cointegração, testes de Raiz Unitária (ADF), funções de Impulso-Resposta e Forecasting.
 - Dados e Pipelines: ETL, ELT, data wrangling, APIs, automação de processos e integração de bases a partir de joins e merges.
 - Bases públicas: RAIS, PNADC, IBGE/SIDRA, Ipea Data, Banco Central, Comex Stat, USDA e WITS.
 - Proficiência em R Markdown e Notebooks em Python.
 - Versionamento: Git/GitHub e Azure Repos.
-- IA generativa: ChatGPT Codex e GitHub Copilot.
+- IA generativa: Spec-Driven Development e Prompt Engineering com ChatGPT Codex e GitHub Copilot.
 - Ferramentas Auxiliares: Pacote Office, Google Workspace, Miro, Azure DevOps, Atlassian Jira e Trello.
 - Metodologias Ágeis: Scrum e Kanban.
 
