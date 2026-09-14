@@ -39,7 +39,7 @@ Projeto de coleta, integração e análise de indicadores econômicos e do merca
 - Bases públicas: RAIS, PNADC, IBGE/SIDRA, Ipea Data, Banco Central, Comex Stat, USDA e WITS.
 - Proficiência em R Markdown e Notebooks em Python.
 - Versionamento: Git/GitHub e Azure Repos.
-- IA generativa: Spec-Driven Development e Prompt Engineering com ChatGPT Codex e GitHub Copilot.
+- IA generativa: Spec-Driven Development e Prompt Engineering com GitHub Copilot, ChatGPT Codex e Claude.
 - Ferramentas Auxiliares: Pacote Office, Google Workspace, Miro, Azure DevOps, Atlassian Jira e Trello.
 - Metodologias Ágeis: Scrum e Kanban.
 
