@@ -6,7 +6,7 @@ Olá! Meu nome é Patrick, e este é o meu perfil no GitHub, onde compartilho pr
 
 ### Credit Risk
 
-Projeto sobre risco de crédito para previsão de inadimplência com dados públicos do Kaggle. Compara XGBoost, LightGBM, Random Forest, KNN, Naive Bayes, Árvore de Decisão e Regressão Logística, tratando desbalanceamento de classes. A avaliação reúne métricas como precisão, recall, ROC AUC, PR-AUC e uma estimativa de lucro para conectar o desempenho ao resultado financeiro. O XGBoost balanceado foi selecionado como champion por apresentar o maior lucro estimado, o menor número de falsos negativos e o maior recall. O projeto também utiliza feature importance e SHAP para identificar as variáveis mais relevantes e compreender sua influência sobre as previsões do modelo.
+Projeto sobre risco de crédito para previsão de inadimplência com dados públicos do Kaggle. Compara XGBoost, LightGBM, Random Forest, KNN, Naive Bayes, Árvore de Decisão e Regressão Logística, tratando desbalanceamento de classes. A avaliação reúne métricas como acurácia, precisão, recall, ROC AUC, PR-AUC e uma estimativa de lucro para conectar o desempenho ao resultado financeiro. O XGBoost balanceado foi selecionado como champion por apresentar o maior lucro estimado, o menor número de falsos negativos e o maior recall. O projeto também utiliza feature importance e SHAP para identificar as variáveis mais relevantes e compreender sua influência sobre as previsões do modelo.
 
 ### Amazon Sales
 
